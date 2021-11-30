@@ -1,0 +1,3 @@
+.vagrant/
+ubuntu-xenial-16.4.04-cloudimg-console.log
+.provisioning/starter-code/app/node_modules/
